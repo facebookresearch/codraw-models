@@ -52,13 +52,12 @@ The transcripts for the human-machine evaluation reported in our paper are in th
 If you find this code useful in your research, we'd really appreciate it if you could cite the following paper:
 
 ```
-@inproceedings{anonymous2019codraw,
-title={CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven Communication},
-author={Anonymous},
-booktitle={Submitted to International Conference on Learning Representations},
-year={2019},
-url={https://openreview.net/forum?id=r1GkMhAqYm},
-note={under review}
+@article{CoDraw,
+author = {Kim, Jin-Hwa and Kitaev, Nikita and Chen, Xinlei and Rohrbach, Marcus and Tian, Yuandong and Batra, Dhruv and Parikh, Devi},
+journal = {arXiv preprint arXiv:1712.05558},
+title = {{CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven Communication}},
+url = {http://arxiv.org/abs/1712.05558},
+year = {2019}
 }
 ```
 
